@@ -9,6 +9,7 @@ This project contains all my working Python scripts for **Advent of Code 2022**.
 * dec3: Rucksack Reorganization
 * dec4: Camp Cleanup
 * dec5: Supply Stacks
+* dec6: Tuning Trouble
 
 ## Find me on social media
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/markusrenepae/)
