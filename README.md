@@ -10,6 +10,8 @@ This project contains all my working Python scripts for **Advent of Code 2022**.
 * dec4: Camp Cleanup
 * dec5: Supply Stacks
 * dec6: Tuning Trouble
+* dec7: No Space Left On Device
+* dec8: Treetop Tree House
 
 ## Find me on social media
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/markusrenepae/)
